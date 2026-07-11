@@ -1,0 +1,4 @@
+term,definition
+function,A reusable block of code
+iterator,An object that yields one value at a time
+decorator,A function that wraps another function

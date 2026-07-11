@@ -1,0 +1,2 @@
+Hello Python
+Files can store text for later.

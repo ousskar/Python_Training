@@ -1,0 +1,11 @@
+{
+  "topic": "sample_notes",
+  "summary": "",
+  "questions": [],
+  "flashcards": [
+    {
+      "question": "FAKE LLM RESPONSE",
+      "answer": "Create 3 to 5 flashcards from the following study material. Return each flashcard on its own line using the exact format..."
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+Python is a programming language used for automation, data analysis, web development, and artificial intelligence.
+
+Functions help organize logic into reusable pieces.
+Files let programs load and save information.
+Testing helps catch regressions early.
